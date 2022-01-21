@@ -1,8 +1,8 @@
 a {
-display: block;
-width: 1200px;
-height: 40px;
-line-height: 30px;
+display: inline-block;
+width: 680px;
+height: 31px;
+line-height: 31px;
 padding: 10px 5px;
 margin: 20px;
 background-color: #000;
@@ -13,3 +13,4 @@ text-align: center;
 font-weight: bold;
 font-family: Arial;
 }
+
